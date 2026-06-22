@@ -3,6 +3,13 @@ This repository demonstrates my ability to design and demonstrate knowledge of u
 
 [1] https://handbook.monash.edu/2026/units/FIT3175?year=2026
 
+What I have achived:
+- Explained and implemented core usability theories and principles to create intuitive interface and interaction designs.
+- Designed and optimized user interfaces specifically tailored for web, small screen, and mobile platforms.
+- Created inclusive designs that accommodate user diversity and meet strict accessibility standards.
+- Championed user-centered design (UCD) methodologies throughout the entire development lifecycle.
+- Conducted rigorous evaluations of interfaces and interaction designs to improve overall user experience.
+
 # Assignment 1
 This assignment focus on gathering and analyse the user behaviour and data. From there, I design the persona and design the user stories.
 # Assignment 2
